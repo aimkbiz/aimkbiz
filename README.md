@@ -1,4 +1,7 @@
-### Hi there 👋
+こんにちは、あいみくです
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimkbiz
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aimkbiz/aimkbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
