@@ -6,6 +6,8 @@ Hello, my name is Aimk.<br />
 I'm a freelance engineer who became independent in January 2021.<br />
 I develop game projects on outsourcing.<br /><br />
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimkbiz&theme=2077)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimkbiz&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aimkbiz&theme=onedark&show_icons=ture" />
