@@ -6,6 +6,7 @@ Hello, my name is Aimk.<br />
 I'm a freelance engineer who became independent in January 2021.<br />
 I develop game projects on outsourcing.<br /><br />
 
+※別で管理していたソースを24/4にgithubに移行
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimkbiz&theme=2077)
 
 <p align="left"> 
