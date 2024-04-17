@@ -3,9 +3,6 @@
 SIer10年ゲーム業界10年<br />
 実務経験:Unity、c#、php、java<br />
 独学:Python、react、laravel、node(ツールやWebサイト作成)<br />
-環境:<br />
-windows(i9-12900K+RTX3080 32GB、SSD1TB、HDD4TB)
-linux(VPSサーバ、ubuntu 20.04.3、nginx、php、python etc)<br />
 業務委託でゲームの案件の開発を行っております<br /><br />
 Hello, my name is Aimk.<br />
 I'm a freelance engineer who became independent in January 2021.<br />
