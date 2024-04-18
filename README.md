@@ -1,3 +1,4 @@
+# 自己紹介
 こんにちは、あいみくです<br />
 2021年1月からフリーランスエンジニアをやっています<br />
 SIer10年ゲーム業界10年<br />
@@ -10,6 +11,38 @@ Hello, my name is Aimk.<br />
 I'm a freelance engineer who became independent in January 2021.<br />
 I develop game projects on outsourcing.<br /><br />
 
+# 個人制作実績
+
+### 3Dモデリング
+Unity/blender<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/aimkbiz_unity1.png)<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/aimkbiz_unity2.png)
+
+### Unityアプリ
+Unity<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/unity_app1.png)
+
+### 時計ツール
+Unity<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/clocktool.png)
+
+
+### Gasツール
+Google Apps Script<br /><br />
+◆リマインドbot<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/aimkbiz_tool1.png)<br />
+◆勤怠打刻ツール<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/aimkbiz_tool2.png)<br />
+◆gmail送信<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/aimkbiz_tool3.png)<br />
+
+
+
+### ポモドーロツール
+Python PySimpleGUI、pygameのライブラリーを使用<br />
+![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/pygame.png)
+
+# git実績
 ※別で管理していたソースを24/4にgithubに移行<br />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimkbiz&theme=2077)
 
