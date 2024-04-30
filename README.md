@@ -11,6 +11,19 @@ Hello, my name is Aimk.<br />
 I'm a freelance engineer who became independent in January 2021.<br />
 I develop game projects on outsourcing.<br /><br />
 
+# git実績
+※別で管理していたソースを24/4にgithubに移行<br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimkbiz&theme=2077)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimkbiz&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aimkbiz&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aimkbiz)](https://github.com/ryo-ma/github-profile-trophy)
+<br /><br />
+
+
 # 個人制作実績
 
 ### 3Dモデリング
@@ -42,18 +55,6 @@ Google Apps Script<br /><br />
 Python PySimpleGUI、pygameのライブラリーを使用<br />
 ![image](https://github.com/aimkbiz/aimkbiz/blob/main/portfolio/pygame.png)
 
-# git実績
-※別で管理していたソースを24/4にgithubに移行<br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aimkbiz&theme=2077)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimkbiz&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aimkbiz&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aimkbiz)](https://github.com/ryo-ma/github-profile-trophy)
-<br /><br />
-githubに草を生やす活動をしています<br />
 <!--
 **aimkbiz/aimkbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
